@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.20)  23 OCT 2017 09:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.20)  25 OCT 2017 10:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1240,43 +1240,19 @@ LaTeX Info: Redefining \nameref on input line 19.
 \c@lstlisting=\count157
 ABD: EveryShipout initializing macros (./forside.tex [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
-
-LaTeX Warning: Reference `org.eq.' on page 1 undefined on input line 62.
-
-
-LaTeX Warning: Reference `org.eq.' on page 1 undefined on input line 64.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])pdfTeX warning (ext4): des
+tination with the same identifier (name{page.1}) has been already used, duplica
+te ignored
 <to be read again> 
                    \relax 
 l.96 \newpage
-              [1]
-
-LaTeX Warning: Reference `Right eq.' on page 2 undefined on input line 112.
-
-<figure_1.png, id=35, 578.16pt x 433.62pt>
+              [1] <figure_1.png, id=38, 578.16pt x 433.62pt>
 File: figure_1.png Graphic file (type png)
- <use figure_1.png>
+
+<use figure_1.png>
 Package pdftex.def Info: figure_1.png used on input line 151.
 (pdftex.def)             Requested size: 341.42903pt x 199.16988pt.
- [2 <./figure_1.png>]
-
-LaTeX Warning: Reference `z1_eq' on page 3 undefined on input line 206.
-
-[3]
-
-LaTeX Warning: Reference `z21_p' on page 4 undefined on input line 246.
-
-[4]
-
-LaTeX Warning: Reference `z2p' on page 5 undefined on input line 274.
-
-
-LaTeX Warning: Reference `PL_z2_eq' on page 5 undefined on input line 274.
-
-[5] [6]
+ [2 <./figure_1.png>] [3] [4] [5] [6]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 307.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 307.
  (./oblig2.aux)
@@ -1284,23 +1260,16 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 307.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 307.
 Package rerunfilecheck Info: File `oblig2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 307.
  ) 
 Here is how much of TeX's memory you used:
  18930 strings out of 493029
  342108 string characters out of 6136234
- 420446 words of memory out of 5000000
+ 421084 words of memory out of 5000000
  22107 multiletter control sequences out of 15000+600000
  7155 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,15n,54p,494b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,15n,54p,497b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
@@ -1316,10 +1285,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/p
 ublic/cm-super/sfrm1000.pfb>
-Output written on oblig2.pdf (7 pages, 188864 bytes).
+Output written on oblig2.pdf (7 pages, 188895 bytes).
 PDF statistics:
- 148 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
+ 155 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
  40 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
