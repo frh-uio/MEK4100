@@ -1,16 +1,24 @@
 \documentclass[main.tex]{subfiles}
+\newlength{\drop}
 \begin{document}
-\begin{titlepage}
-	\centering
-	{\scshape\LARGE Farnaz Rezvany Hesary \par}
-	\vspace{1.5cm}
-	{\huge\bfseries MEK4100 \par}
-	\vspace{1.5cm}
-	{\huge\bfseries Mandatory assignment 2 \par}
-	
-	\vfill
+	\begin{titlepage}
+    	\drop=0.5\textheight
+    	\centering
+    	\vspace*{\baselineskip}
+    	\drop=0.5\textheight
+    	\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{4pt}
+    	\rule{\textwidth}{0.4pt}\\[\baselineskip]
+		{\scshape\LARGE Farnaz Rezvany Hesary \par}
+		\vspace{1.5cm}
+		{\huge\bfseries MEK4100 \par}
+		\vspace{1.5cm}
+		{\huge\bfseries Mandatory assignment 2 \par}
+    	\rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{4pt}
+    	\rule{\textwidth}{0.4pt}\\[\baselineskip]
+    	
+		\vfill
 
-% Bottom of the page
-	{\Large \today\par}
-\end{titlepage}
+
+		{\LARGE \today\par}
+	\end{titlepage}
 \end{document}
